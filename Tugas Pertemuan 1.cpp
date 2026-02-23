@@ -7,9 +7,9 @@ int sks;
 int main(){
     //variable lokal
     int umur;
-    umur = 19;
+    umur = 21;
 
-    cout << "Halo mas Fauzan" << endl;
-    cout << 10 << endl;
+    cout << "Halo mas Hugo" << endl;
+    cout << 20 << endl;
     cout << umur;
 }
